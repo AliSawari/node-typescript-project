@@ -1,0 +1,25 @@
+{
+  "name": "typescript-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/",
+  "scripts": {
+    "build": "tsc",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliSawari/node-typescript-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AliSawari/node-typescript-project/issues"
+  },
+  "homepage": "https://github.com/AliSawari/node-typescript-project#readme",
+  "dependencies": {
+    "@types/node": "^17.0.25",
+    "typescript": "^4.6.3"
+  }
+}
